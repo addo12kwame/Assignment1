@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    
+    <!-- School building background -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M20,180 L180,180 L180,80 L100,20 L20,80 Z"/>
+        
+    <!-- Building details -->
+    <rect
+        android:fillColor="#1976D2"
+        android:width="160"
+        android:height="100"
+        android:x="20"
+        android:y="80"/>
+        
+    <!-- Windows -->
+    <rect
+        android:fillColor="#FFF"
+        android:width="20"
+        android:height="15"
+        android:x="40"
+        android:y="100"/>
+    <rect
+        android:fillColor="#FFF"
+        android:width="20"
+        android:height="15"
+        android:x="70"
+        android:y="100"/>
+    <rect
+        android:fillColor="#FFF"
+        android:width="20"
+        android:height="15"
+        android:x="110"
+        android:y="100"/>
+    <rect
+        android:fillColor="#FFF"
+        android:width="20"
+        android:height="15"
+        android:x="140"
+        android:y="100"/>
+        
+    <!-- Door -->
+    <rect
+        android:fillColor="#8BC34A"
+        android:width="20"
+        android:height="30"
+        android:x="90"
+        android:y="150"/>
+        
+    <!-- Roof flag -->
+    <rect
+        android:fillColor="#F44336"
+        android:width="2"
+        android:height="20"
+        android:x="99"
+        android:y="20"/>
+    <rect
+        android:fillColor="#FF9800"
+        android:width="15"
+        android:height="8"
+        android:x="101"
+        android:y="20"/>
+</vector>
