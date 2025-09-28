@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">School Homepage</string>
+    <string name="school_name">University of Excellence</string>
+    <string name="school_motto">Learning for Excellence</string>
+    <string name="welcome_text">Welcome to our School</string>
+</resources>
